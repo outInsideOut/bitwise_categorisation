@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/fionn/dev/CPP/sandbox/bitwise_categorisation/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/bitwise_categoristaion.dir/src/main.cpp.o -c /home/fionn/dev/CPP/sandbox/bitwise_categorisation/src/main.cpp",
+  "file": "/home/fionn/dev/CPP/sandbox/bitwise_categorisation/src/main.cpp"
+}
+]

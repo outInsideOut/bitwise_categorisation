@@ -1,0 +1,3 @@
+/home/fionn/dev/CPP/sandbox/bitwise_categorisation/CMakeFiles/rebuild_cache.dir
+/home/fionn/dev/CPP/sandbox/bitwise_categorisation/CMakeFiles/edit_cache.dir
+/home/fionn/dev/CPP/sandbox/bitwise_categorisation/CMakeFiles/bitwise_categoristaion.dir

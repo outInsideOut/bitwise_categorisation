@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/bitwise_categoristaion.dir/src/main.cpp.o  -o bitwise_categoristaion 
